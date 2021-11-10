@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas, mas pode me chamar de Lurf 😉
 
-- 🔭 Hoje eu trabalho com Python
-- 🌱 Estudando Java
+- 🔭 trabalhando com Python
+- 🌱 Estudando Java, PHP...
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">

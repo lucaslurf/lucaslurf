@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Lucas, mas pode me chamar de Lurf 😉
 
-- 🔭 trabalhando com Python
-- 🌱 Estudando Java, PHP...
-- 😄 Pronouns: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/lucaslurf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslurf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

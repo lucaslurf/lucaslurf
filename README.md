@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/lucaslurf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslurf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lucaslurf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username= lucaslurf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatísticas do github do Anurag" /></a> | <a href="https://github.com/lucaslurf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top- langs/?username=lucaslurf&layout=compact&theme=buefy&hide_border=true" /></a> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslurf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   

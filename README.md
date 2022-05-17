@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/lucaslurf">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaslurf&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=lucaslurf&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaslurf&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>

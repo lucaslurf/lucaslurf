@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/lucaslurf">
   <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=lucaslurf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslurf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=lucaslurf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>

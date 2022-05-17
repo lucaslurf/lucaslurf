@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas, mas pode me chamar de Lurf 😉
+## Hi! I'm Lucas Faria, but you can call me Lurf! 😉
 
 <div align="center">
   <a href="https://github.com/lucaslurf">
